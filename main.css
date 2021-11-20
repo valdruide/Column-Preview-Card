@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@500&family=Dongle&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@500&family=Dongle&family=Lexend+Deca:wght@200&display=swap');
+
+
+.corner-right{
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.corner-left{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.font-title{
+    font-family: 'Big Shoulders Display', cursive;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.text-box{
+    padding-right: 40px;
+    margin-top: 40px;
+}
+
+.text-p{
+    font-size: 18px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.button{
+    border: none;
+    background-color: white;
+    color: #00403F;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 80px;
+    padding: 10px;
+    padding-right: 25px;
+    padding-left: 25px;
+
+    font-size: 20px;
+    border-radius: 60px;
+}

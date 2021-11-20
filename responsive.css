@@ -1,0 +1,18 @@
+@media screen and (max-width: 1000px) {
+    .corner-right{
+        border-radius: 0; 
+    }
+    .corner-left{
+        border-radius: 0; 
+    }
+    
+    .sm-corner-top {
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+    }
+    
+    .sm-corner-bot {
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+}
