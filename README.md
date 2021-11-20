@@ -1,6 +1,6 @@
 # Column Preview Card
 
-Ceci est la réalisation d'une Column Preview Card Card avec Bootstrap.
+Ceci est la réalisation d'une Column Preview Card avec Bootstrap.
 
 
 
@@ -17,7 +17,7 @@ Petite réalisation faite en une heure afin de perfectionner mon CSS, Bootstrap 
 
 ### Link
 
-- Live Site URL: [LINK](https://nft-card.alwaysdata.net)
+- Live Site URL: [LINK](http://column-preview-card.alwaysdata.net)
 
 ## Author
 
