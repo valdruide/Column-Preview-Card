@@ -10,9 +10,10 @@ Ceci est la réalisation d'une Column Preview Card Card avec Bootstrap.
 Petite réalisation faite en une heure afin de perfectionner mon CSS, Bootstrap et continuer d'apprendre à rendre le tout responsive.
 
 
-### Screenshot
+### Screenshots
 
 ![SCREEN](./images/Screenshot.png)
+![SCREEN](./images/Screenshot2.png)
 
 ### Link
 
