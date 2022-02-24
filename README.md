@@ -17,7 +17,7 @@ Petite réalisation faite en une heure afin de perfectionner mon CSS, Bootstrap 
 
 ### Link
 
-- Live Site URL: [LINK](http://tristan-viard.alwaysdata.net/Column-Preview-Card/index.html)
+- Live Site URL: [LINK](https://htmlpreview.github.io/?https://github.com/valdruide/Column-Preview-Card/blob/main/index.html)
 
 ## Author
 
